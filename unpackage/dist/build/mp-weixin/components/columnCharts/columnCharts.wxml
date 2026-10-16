@@ -1,0 +1,1 @@
+<view class="charts-box data-v-582366f3"><qiun-data-charts vue-id="3fddc3bc-1" type="column" ontouch="{{true}}" opts="{{opts}}" chartData="{{chartData}}" canvas2d="{{true}}" class="data-v-582366f3" bind:__l="__l"></qiun-data-charts></view>

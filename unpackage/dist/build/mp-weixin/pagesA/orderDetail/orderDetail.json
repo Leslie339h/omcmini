@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "订单详情",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "storelocation": "/components/storelocation/storelocation",
+    "u-divider": "/uni_modules/uview-ui/components/u-divider/u-divider",
+    "order-info": "/components/orderInfo/orderInfo",
+    "pay-pop": "/components/payPop/payPop",
+    "refund-pop": "/components/refundPop/refundPop"
+  }
+}

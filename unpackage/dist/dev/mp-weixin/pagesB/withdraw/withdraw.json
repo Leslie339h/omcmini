@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "提现",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-navbar": "/uni_modules/uview-ui/components/u-navbar/u-navbar",
+    "empty": "/components/empty/empty",
+    "u-modal": "/uni_modules/uview-ui/components/u-modal/u-modal",
+    "u--input": "/uni_modules/uview-ui/components/u--input/u--input"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "次数购买",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-navbar": "/uni_modules/uview-ui/components/u-navbar/u-navbar",
+    "u-icon": "/uni_modules/uview-ui/components/u-icon/u-icon",
+    "pay-pop": "/components/payPop/payPop"
+  }
+}

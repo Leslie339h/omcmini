@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "驰友币记录",
+  "usingComponents": {
+    "empty": "/components/empty/empty"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "收银台",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#fff",
+  "usingComponents": {
+    "u-sticky": "/uni_modules/uview-ui/components/u-sticky/u-sticky",
+    "empty": "/components/empty/empty",
+    "u-number-box": "/uni_modules/uview-ui/components/u-number-box/u-number-box",
+    "u-icon": "/uni_modules/uview-ui/components/u-icon/u-icon"
+  }
+}

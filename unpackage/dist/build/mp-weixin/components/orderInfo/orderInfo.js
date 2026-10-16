@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["components/orderInfo/orderInfo"],{"45ac":function(n,t,e){"use strict";e.d(t,"b",(function(){return r})),e.d(t,"c",(function(){return u})),e.d(t,"a",(function(){return o}));var o={uIcon:function(){return Promise.all([e.e("common/vendor"),e.e("uni_modules/uview-ui/components/u-icon/u-icon")]).then(e.bind(null,"6fa0"))}},r=function(){var n=this.$createElement,t=(this._self._c,this._f("timerFormat")(this.content_list.createtime));this.$mp.data=Object.assign({},{$root:{f0:t}})},u=[]},"521d":function(n,t,e){"use strict";e.r(t);var o=e("8fd14"),r=e.n(o);for(var u in o)["default"].indexOf(u)<0&&function(n){e.d(t,n,(function(){return o[n]}))}(u);t["default"]=r.a},"8ee0":function(n,t,e){"use strict";var o=e("e65c"),r=e.n(o);r.a},"8fd14":function(n,t,e){"use strict";(function(n){var o=e("47a9");Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var r=o(e("7eb4")),u=o(e("ee10")),a={name:"OrderInformation",props:{content_list:{}},data:function(){return{}},methods:{take:function(t){var e=this;return(0,u.default)(r.default.mark((function o(){var u;return r.default.wrap((function(o){while(1)switch(o.prev=o.next){case 0:return console.log(t),o.next=3,confirm({order_id:t});case 3:u=o.sent,1==u.code?e.$emit("update"):n.showToast({title:u.msg,icon:"none"});case 5:case"end":return o.stop()}}),o)})))()}}};t.default=a}).call(this,e("df3c")["default"])},a307:function(n,t,e){"use strict";e.r(t);var o=e("45ac"),r=e("521d");for(var u in r)["default"].indexOf(u)<0&&function(n){e.d(t,n,(function(){return r[n]}))}(u);e("8ee0");var a=e("828b"),c=Object(a["a"])(r["default"],o["b"],o["c"],!1,null,"37c67a15",null,!1,o["a"],void 0);t["default"]=c.exports},e65c:function(n,t,e){}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'components/orderInfo/orderInfo-create-component',
+    {
+        'components/orderInfo/orderInfo-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('df3c')['createComponent'](__webpack_require__("a307"))
+        })
+    },
+    [['components/orderInfo/orderInfo-create-component']]
+]);

@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["components/columnCharts/columnCharts"],{"0acf":function(t,a,n){"use strict";n.r(a);var e=n("cc84"),r=n.n(e);for(var c in e)["default"].indexOf(c)<0&&function(t){n.d(a,t,(function(){return e[t]}))}(c);a["default"]=r.a},"36a8":function(t,a,n){"use strict";var e=n("c01e"),r=n.n(e);r.a},"4d1bf":function(t,a,n){"use strict";n.d(a,"b",(function(){return r})),n.d(a,"c",(function(){return c})),n.d(a,"a",(function(){return e}));var e={qiunDataCharts:function(){return Promise.all([n.e("common/vendor"),n.e("uni_modules/qiun-data-charts/components/qiun-data-charts/qiun-data-charts")]).then(n.bind(null,"eaca"))}},r=function(){var t=this.$createElement;this._self._c},c=[]},b3a9:function(t,a,n){"use strict";n.r(a);var e=n("4d1bf"),r=n("0acf");for(var c in r)["default"].indexOf(c)<0&&function(t){n.d(a,t,(function(){return r[t]}))}(c);n("36a8");var o=n("828b"),u=Object(o["a"])(r["default"],e["b"],e["c"],!1,null,"582366f3",null,!1,e["a"],void 0);a["default"]=u.exports},c01e:function(t,a,n){},cc84:function(t,a,n){"use strict";var e=n("47a9");Object.defineProperty(a,"__esModule",{value:!0}),a.default=void 0;var r=e(n("7ca3")),c={data:function(){var t;return{chartData:{},opts:(t={color:["#036045"],padding:[15,15,0,5],enableScroll:!1,legend:{show:!1}},(0,r.default)(t,"enableScroll",!0),(0,r.default)(t,"xAxis",{disableGrid:!0,gridType:"dash",itemCount:5,scrollShow:!0,scrollAlign:"left",scrollBackgroundColor:"#F7F7FF",scrollColor:"#DEE7F7"}),(0,r.default)(t,"yAxis",{disabled:!1,gridType:"dash",data:[{min:0}]}),(0,r.default)(t,"extra",{column:{type:"group",width:30,activeBgColor:"#000000",activeBgOpacity:.08}}),t)}},methods:{}};a.default=c}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'components/columnCharts/columnCharts-create-component',
+    {
+        'components/columnCharts/columnCharts-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('df3c')['createComponent'](__webpack_require__("b3a9"))
+        })
+    },
+    [['components/columnCharts/columnCharts-create-component']]
+]);

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "会员码",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "navbar": "/components/navbar/navbar",
+    "u-count-down": "/uni_modules/uview-ui/components/u-count-down/u-count-down"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "我的邀请",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "column-charts": "/components/columnCharts/columnCharts",
+    "empty": "/components/empty/empty",
+    "u-picker": "/uni_modules/uview-ui/components/u-picker/u-picker",
+    "u-datetime-picker": "/uni_modules/uview-ui/components/u-datetime-picker/u-datetime-picker"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "邀请好友",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-navbar": "/uni_modules/uview-ui/components/u-navbar/u-navbar",
+    "u-icon": "/uni_modules/uview-ui/components/u-icon/u-icon"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "商品列表",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-sticky": "/uni_modules/uview-ui/components/u-sticky/u-sticky",
+    "write-pop": "/components/writePop/writePop"
+  }
+}

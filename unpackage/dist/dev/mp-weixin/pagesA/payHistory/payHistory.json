@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "充值明细",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "empty": "/components/empty/empty"
+  }
+}

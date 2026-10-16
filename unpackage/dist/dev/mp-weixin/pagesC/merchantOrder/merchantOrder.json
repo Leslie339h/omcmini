@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "门店订单",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#fff",
+  "usingComponents": {
+    "u-sticky": "/uni_modules/uview-ui/components/u-sticky/u-sticky",
+    "u-search": "/uni_modules/uview-ui/components/u-search/u-search",
+    "u-tabs": "/uni_modules/uview-ui/components/u-tabs/u-tabs",
+    "empty": "/components/empty/empty",
+    "u-icon": "/uni_modules/uview-ui/components/u-icon/u-icon",
+    "jjtk": "/components/jjtk/jjtk"
+  }
+}

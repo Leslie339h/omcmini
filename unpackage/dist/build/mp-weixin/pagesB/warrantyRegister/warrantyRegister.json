@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "弛安心注册",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#fff",
+  "usingComponents": {
+    "u-picker": "/uni_modules/uview-ui/components/u-picker/u-picker",
+    "warranty-policy-popup": "/components/warrantyPolicyPopup/warrantyPolicyPopup",
+    "warranty-envelope-popup": "/components/warrantyEnvelopePopup/warrantyEnvelopePopup"
+  }
+}

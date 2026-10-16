@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "店铺中心",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-icon": "/uni_modules/uview-ui/components/u-icon/u-icon",
+    "u-switch": "/uni_modules/uview-ui/components/u-switch/u-switch",
+    "u-notify": "/uni_modules/uview-ui/components/u-notify/u-notify",
+    "u-modal": "/uni_modules/uview-ui/components/u-modal/u-modal",
+    "u-badge": "/uni_modules/uview-ui/components/u-badge/u-badge",
+    "withdrawal-rules-popup": "/components/withdrawalRulesPopup/withdrawalRulesPopup"
+  }
+}

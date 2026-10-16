@@ -1,0 +1,1 @@
+<view class="data-v-c38cf2f0"><cc-define-step vue-id="36abd711-1" colors="{{colors}}" stepData="{{stepData}}" class="data-v-c38cf2f0" bind:__l="__l"></cc-define-step><block wx:if="{{$root.g0==0}}"><empty vue-id="36abd711-2" class="data-v-c38cf2f0" bind:__l="__l"></empty></block></view>

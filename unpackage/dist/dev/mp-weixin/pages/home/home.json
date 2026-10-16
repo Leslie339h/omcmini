@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "首页",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#fff",
+  "onReachBottomDistance": 100,
+  "backgroundColor": "#ffffff",
+  "enableShareAppMessage": true,
+  "enableShareTimeline": true,
+  "usingComponents": {
+    "u-swiper": "/uni_modules/uview-ui/components/u-swiper/u-swiper"
+  }
+}

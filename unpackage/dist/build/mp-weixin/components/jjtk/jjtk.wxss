@@ -1,0 +1,1 @@
+.box{width:500rpx;padding:30rpx 0rpx 0;box-sizing:border-box}.ipt_box{margin:30rpx 0;padding:0 30rpx;box-sizing:border-box}.btns{border-top:1rpx solid #eee}.btns .btn_1{width:50%;text-align:center;line-height:80rpx;border-right:1rpx solid #eee}.btns .btn_2{width:50%;text-align:center;line-height:80rpx}

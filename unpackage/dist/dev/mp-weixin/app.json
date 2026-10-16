@@ -1,0 +1,154 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/shop/shop",
+    "pages/order/order",
+    "pages/message/index",
+    "pages/my/my",
+    "pages/login/login"
+  ],
+  "subPackages": [
+    {
+      "root": "pagesE",
+      "pages": [
+        "integral/integral",
+        "Integraldetail/Integraldetail",
+        "convert/convert",
+        "integralcommodity/integralcommodity",
+        "confirm/confirm",
+        "orderDetails/orderDetails"
+      ]
+    },
+    {
+      "root": "pagesD",
+      "pages": [
+        "cashierDesk/cashierDesk",
+        "ShelfGoods/ShelfGoods",
+        "shopList/shopList",
+        "agreement/agreement",
+        "search/search",
+        "addcashierDesk/addcashierDesk",
+        "cashierHeXiao/cashierHeXiao",
+        "Commission_order/Commission_order",
+        "Promotional_poster/Promotional_poster"
+      ]
+    },
+    {
+      "root": "pagesC",
+      "pages": [
+        "shop/shop",
+        "shopSet/shopSet",
+        "wallet/wallet",
+        "cash/cash",
+        "addCard/addCard",
+        "merchantOrder/merchantOrder",
+        "orderDetail/orderDetail",
+        "shopAuthentication/shopAuthentication",
+        "shopMeans/shopMeans",
+        "logistics/logistics",
+        "symx/symx",
+        "cssz/cssz"
+      ]
+    },
+    {
+      "root": "pagesA",
+      "pages": [
+        "loginCode/loginCode",
+        "affirm_order/affirm_order",
+        "orderDetail/orderDetail",
+        "shopDetail/shopDetail",
+        "map/map",
+        "dineCode/dineCode",
+        "recharge/recharge",
+        "balance/balance",
+        "payHistory/payHistory",
+        "rechargeList/rechargeList",
+        "referral/index",
+        "referral/team",
+        "referral/commission",
+        "referral/qrcode",
+        "referral/leaderBenefits",
+        "coin/exchange",
+        "coin/logs",
+        "message/index",
+        "warrantyPolicy/policy"
+      ]
+    },
+    {
+      "root": "pagesB",
+      "pages": [
+        "consume/consume",
+        "coupon/index",
+        "invite/invite",
+        "team/team",
+        "withdraw/withdraw",
+        "personage/personage",
+        "vipCode/vipCode",
+        "CouponSquare/CouponSquare",
+        "myCoupon/myCoupon",
+        "myAddress/myAddress",
+        "write_site/write_site",
+        "tireBead/result",
+        "warrantyRegister/warrantyRegister",
+        "warrantyMyList/warrantyMyList",
+        "claimRegister/claimRegister",
+        "claimMyList/claimMyList"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "enableShareAppMessage": true,
+    "enableShareTimeline": true
+  },
+  "tabBar": {
+    "color": "#979797",
+    "selectedColor": "#036045",
+    "list": [
+      {
+        "iconPath": "static/tab3.png",
+        "selectedIconPath": "static/tab4.png",
+        "pagePath": "pages/home/home",
+        "text": "首页"
+      },
+      {
+        "iconPath": "static/zhongliang.png",
+        "selectedIconPath": "static/zhongliang2.png",
+        "pagePath": "pages/shop/shop",
+        "text": "商城"
+      },
+      {
+        "iconPath": "static/liaotian1.png",
+        "selectedIconPath": "static/liaotian2.png",
+        "pagePath": "pages/message/index",
+        "text": "消息"
+      },
+      {
+        "iconPath": "static/dingdanweixuanzhong.png",
+        "selectedIconPath": "static/dingdanxuanzhong.png",
+        "pagePath": "pages/order/order",
+        "text": "订单"
+      },
+      {
+        "iconPath": "static/tab7.png",
+        "selectedIconPath": "static/tab8.png",
+        "pagePath": "pages/my/my",
+        "text": "我的"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序位置接口的效果展示"
+    }
+  },
+  "lazyCodeLoading": "requiredComponents",
+  "requiredPrivateInfos": [
+    "chooseLocation",
+    "getLocation"
+  ],
+  "usingComponents": {}
+}

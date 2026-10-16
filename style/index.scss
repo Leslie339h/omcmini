@@ -1,0 +1,27 @@
+@import  './colorui/icon.scss';
+@import  './colorui/main.scss';
+
+@import  './public.scss';
+@import  './color.scss';
+
+
+.flex {
+	display: flex;
+}
+
+.jc {
+	justify-content: center;
+}
+
+.jsb {
+	justify-content: space-between;
+}
+
+.ac {
+	align-items: center;
+}
+
+.plank {
+	width: 100%;
+	height: 30rpx;
+}

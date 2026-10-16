@@ -1,0 +1,1 @@
+page{background:#f6f7fb}.tabs{background-color:#fff}.box{padding:30rpx;box-sizing:border-box}.box .box_item{border-radius:16rpx 16rpx 16rpx 16rpx;background-color:#fff;padding:24rpx 28rpx;box-sizing:border-box}.box .box_item .box_item_center{border-top:1rpx solid #eee;padding:26rpx 0 20rpx;box-sizing:border-box}

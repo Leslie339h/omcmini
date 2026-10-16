@@ -1,0 +1,1 @@
+<view><u-navbar vue-id="982fa97c-1" title="{{title}}" autoBack="{{true}}" bgColor="{{bgColor}}" leftIconColor="{{leftIconColor}}" placeholder="{{true}}" titleStyle="{{titleStyle}}" bind:__l="__l"></u-navbar></view>

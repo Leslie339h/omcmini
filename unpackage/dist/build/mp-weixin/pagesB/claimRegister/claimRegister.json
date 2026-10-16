@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "质保申请",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#fff",
+  "usingComponents": {
+    "u-picker": "/uni_modules/uview-ui/components/u-picker/u-picker"
+  }
+}

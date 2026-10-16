@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "物流信息",
+  "usingComponents": {
+    "cc-define-step": "/uni_modules/cc-defineStep/components/cc-defineStep/cc-defineStep",
+    "empty": "/components/empty/empty"
+  }
+}

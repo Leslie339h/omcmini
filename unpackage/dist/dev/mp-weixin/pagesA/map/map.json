@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "选择门店",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-sticky": "/uni_modules/uview-ui/components/u-sticky/u-sticky",
+    "u--input": "/uni_modules/uview-ui/components/u--input/u--input",
+    "empty": "/components/empty/empty"
+  }
+}

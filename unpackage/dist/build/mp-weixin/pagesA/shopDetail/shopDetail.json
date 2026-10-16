@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "商品详情",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-parse": "/uni_modules/uview-ui/components/u-parse/u-parse",
+    "close": "/components/close/close",
+    "add-shop-car": "/components/addShopCar/addShopCar"
+  }
+}

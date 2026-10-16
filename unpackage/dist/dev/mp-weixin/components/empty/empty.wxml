@@ -1,0 +1,1 @@
+<view><view style="{{'padding:'+(mag)+';'}}"><u-empty vue-id="38948666-1" mode="data" textSize="{{14}}" text="暂无数据" bind:__l="__l"></u-empty></view></view>
